@@ -2,7 +2,7 @@
 
 [![Docker Build](https://github.com/salcatroppa/pre-commit-docker/actions/workflows/docker-publish.yml/badge.svg?branch=main)](https://github.com/salcatroppa/pre-commit-docker/actions/workflows/docker-publish.yml)
 
-A [pre-commit](https://github.com/pre-commit/pre-commit) Docker image with `git` pre-installed.
+A [pre-commit](https://github.com/pre-commit/pre-commit) Docker image.
 
 ## Details
 
